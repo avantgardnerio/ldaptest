@@ -1,0 +1,1 @@
+docker run -p 389:389 -it ldaptest /bin/bash
